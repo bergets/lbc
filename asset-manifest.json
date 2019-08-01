@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/lbc/static/css/main.0cce146f.chunk.css",
+    "main.js": "/lbc/static/js/main.7b6016ea.chunk.js",
+    "main.js.map": "/lbc/static/js/main.7b6016ea.chunk.js.map",
+    "runtime~main.js": "/lbc/static/js/runtime~main.5367beea.js",
+    "runtime~main.js.map": "/lbc/static/js/runtime~main.5367beea.js.map",
+    "static/js/2.b09be9a6.chunk.js": "/lbc/static/js/2.b09be9a6.chunk.js",
+    "static/js/2.b09be9a6.chunk.js.map": "/lbc/static/js/2.b09be9a6.chunk.js.map",
+    "index.html": "/lbc/index.html",
+    "precache-manifest.1c150de33a76f6bcd88af4dfa55e39e2.js": "/lbc/precache-manifest.1c150de33a76f6bcd88af4dfa55e39e2.js",
+    "service-worker.js": "/lbc/service-worker.js",
+    "static/css/main.0cce146f.chunk.css.map": "/lbc/static/css/main.0cce146f.chunk.css.map",
+    "static/media/ch1.jpg": "/lbc/static/media/ch1.6a3df54d.jpg",
+    "static/media/ch2.jpg": "/lbc/static/media/ch2.79333d47.jpg",
+    "static/media/ch3.jpg": "/lbc/static/media/ch3.ee00ef07.jpg",
+    "static/media/logo.svg": "/lbc/static/media/logo.5d5d9eef.svg"
+  }
+}
